@@ -19,6 +19,7 @@ Teman : Enkripsi Dan Deskripsi menggunakan Caesar Cypher
 Tools : Dev C++
         Sublim text 3
         Notepad ++
+        
 ALgoritma : CAESAR CYPHER        
         
 LINK REFRENSI :https://www.neliti.com/publications/226362/perancangan-aplikasi-enkripsi-dekripsi-menggunakan-metode-caesar-chiper-dan-oper https://cryptii.com/pipes/caesar-cipher http://mylopedia.blogspot.com/2012/04/algoritma-kriptografi-caesar-cipher.html https://sabinarablog.blogspot.com/2019/05/program-enkripsi-dan-dekripsi-cpp.html https://sedikitpengalaman.wordpress.com/2013/07/15/programenkripsi-dekripsi-menggunakan-metode-caesar-cipher/ https://www.academia.edu/30088571/ENKRIPSI_DAN_DEKRIPSI_menggunakan_metode_Caesar_chiper_dan_XOR_VB_Net
